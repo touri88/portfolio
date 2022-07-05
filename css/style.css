@@ -1,0 +1,40 @@
+/*
+DARK PRIMARY #0097A7
+LIGHT PRIMARY #B2EBF2
+PRIMARY #00BCD4
+TEXT/ICONS #FFFFFF
+ACCENT #607D8B
+PRIMARY TEXT #212121
+SECONDARY TEXT #757575
+DIVIDER COLOR #BDBDBD
+
+*/
+#container{
+    background-color: #B2EBF2;
+    border-color: #BDBDBD;
+}
+
+#fondo1 {
+ background-color: #B2EBF2;
+ border-color: #BDBDBD;
+}
+
+#fondoNav {
+    background-color: #0097A7;
+
+}
+
+#fondo3 {
+    background-color: #0097A7;
+    border-color: #BDBDBD;
+}
+
+#fondo4 {
+    background-color: #00BCD4;
+    border-color: #BDBDBD;
+}
+
+#botonNav:hover {
+    background-color: #B2EBF2;
+    border-color: #BDBDBD;
+}
